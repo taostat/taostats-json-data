@@ -1,0 +1,38 @@
+{
+    "5GBnPzvPghS8AuCoo6bfnK7JUFHuyUhWSFD4woBNsKnPiEUi": {
+        "name": "Binance",
+        "icon": "binance"
+    },
+    "5HiveMEoWPmQmBAb8v63bKPcFhgTGCmST1TVZNvPHSTKFLCv": {
+        "name": "Taobridge",
+        "icon": "taobridge"
+    },
+    "5FqBL928choLPmeFz5UVAvonBD5k7K2mZSXVC9RkFzLxoy2s": {
+        "name": "MEXC",
+        "icon": "mexc"
+    },
+    "5HbDZ6ULuwZegAMSPaS2kaUfBLMDaht5t48RcDrQATSgGCAR": {
+        "name": "Bitget",
+        "icon": "bitget"
+    },
+    "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP": {
+        "name": "Gate.io",
+        "icon": "gateio"
+    },
+    "5CrmVKApX6sJybZaL1geHfzvHWeCpbavqrrXgYLCQmhehX2q": {
+        "name": "Kucoin",
+        "icon": "kucoin"
+    },
+    "5EP5gJvve4PauTCHoiTcpVgsFCKNwVitBcrJbVYWbR5ZTwnU": {
+        "name": "Bithumb"
+    },
+    "5E2b2DcMd5W8MBhzTCFt63t2ZEN8RsRgL7oDd7BFYL9aMQux": {
+        "name": "Kraken Hot"
+    },
+    "5C5FQQSfuxgJc5sHjjAL9RKAzR98qqCV2YN5xAm2wVf1ctGR": {
+        "name": "Kraken Cold"
+    },
+    "5CVSCaCXDRydd3Mkdbu2tHLNYxmNTSpy9yRixa1TRGvgRFS8": {
+        "name": "Crypto.com"
+    }
+}
